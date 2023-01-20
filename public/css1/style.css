@@ -1,0 +1,120 @@
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-size: 12px;
+}
+.table {
+  font-size: 13px;
+  /* font-family: 'Times New Roman', Times, serif; */
+}
+
+.form-group {
+  font-size: 1px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.iconsminds-download-1 {
+  
+  color: rgb(6, 6, 10);
+}
+.iconsminds-download-1:hover{
+  color: blue;
+  background-color: rgb(191, 191, 246);
+}
+
+th {
+  color: black;
+ 
+  font-size: 13px;
+}
+td {
+  color: black;
+}
+
+.text1{
+  color: green;
+}
+
+.text2{
+  color: darkred;
+}
+
+.text3{
+  font-size: 13px;
+  color: rgb(2, 5, 10);
+
+}
+.text4{
+  font-size: 13px;
+  color: coral;
+}
+.text5{
+  font-size: 11px;
+  /* font-family: 'Times New Roman', Times, serif; */
+  color: rgb(211, 64, 11);
+
+}
+
+#text-right:hover{
+  color: blue;
+}
+
+#text-right{
+  cursor: pointer;
+}
+
+h6{
+  font-size: 12px;
+}
+
+
+.alert{
+  text-align: center;
+  font-size: 12px;
+}
+.dropdown-item:hover{
+  color: blue;
+}
+
+.navbar-logo{
+  width: auto;
+  height: 60px;
+}
+
+.card-body{
+  padding: 1,25rem;
+}
+
+.rounded{
+  padding: 1,20rem;
+}
+
+.header{
+  background-color: rgb(234, 232, 229);
+}
+
+/* .head{
+  background-color: rgb(241, 248, 248);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
